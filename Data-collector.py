@@ -1,3 +1,6 @@
+#  Copyright (c) 18.04.2024 [D. P.]
+#  All rights reserved.
+
 from datasets import load_dataset
 from pymongo import MongoClient
 
